@@ -1,0 +1,188 @@
+@media (max-width:640px) {
+  .container{
+    margin: 0px  60px 0px;
+  }
+
+  .top-black{
+    height: 100px;
+    z-index: 50;
+    position: relative;
+  }
+
+  .social-box{
+    width: 100px;
+  }
+
+  .social-box a{
+    background: #ffffff;
+    height: 40px;
+    width: 40px;
+    display: inline-block;
+    border-radius: 5px;
+    line-height: 40px;
+  }
+
+  .social-box a i{
+    color: #f56518;
+  }
+
+  .nav-links ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+    width: 100vw;
+    padding: 20px 40px;
+    margin: -96px 0px;
+    margin-left: 42px;
+    height: 100vh;
+    z-index: 32;
+    position: relative;
+    background: rgba(52, 55, 83, 0.816);
+  }
+
+  .nav-links ul li a{
+    font-size: 18px;
+  }
+
+  .blog-hover{
+    margin-left: 130px;
+    margin-top: -20px;
+  }
+
+  .txt-part h1{
+    width: 500px;
+    margin-top: -230px;
+  }
+
+  .txt-part p{
+    width: 450px;
+  }
+
+  .section-2{
+    height: 950px;
+  }
+
+  .media{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .box{
+    margin-top: 40px;
+  }
+
+  .box h3{
+    color: #000;
+  }
+
+  .section-3{
+    height: 1550px;
+  }
+
+  .sec-3-box p{
+    margin-bottom: 20px;
+  }
+
+  .section-4{
+    height: 1000px;
+  }
+
+  .back-white{
+    position: relative;
+    margin-left: -222px;
+    margin-top: 530px;
+    background: #000;
+    padding: 30px;
+    border-radius: 5px;
+  }
+
+  .media-bg{
+    background: #000;
+  }
+
+  .section-left h2{
+    width: 500px;
+    margin-top: 20px;
+  }
+
+  .section-left p{
+    width: 500px;
+    margin-top: 120px;
+  }
+
+  .down-2 p{
+    width: 220px;
+    margin-top: 0px;
+  }
+
+  .down-2-gap{
+    margin-left: 0px;
+  }
+
+  .down-2{
+    margin-top: 240px;
+  }
+
+  .media-flex{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin: 0px 30px;
+  }
+
+  .section-5{
+    height: 1300px;
+  }
+
+  .with{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 270px;
+  }
+
+  .section-6{
+    height: 650px;
+    background: #f7f6ff;
+  }
+
+  .downts{
+    width: 450px;
+    margin: 30px 0px;
+  }
+
+  .se-7-flex{
+    margin-top: 15px;
+    width: 400px;
+  }
+
+  .se-7-flex a{
+    margin-top: -40px;
+  }
+
+  .section-8{
+    height: 2150px;
+  }
+
+  .flex-box-8{
+    width: 300px;
+  }
+
+  .flex-box-8 p{
+    width: 300px;
+  }
+
+  .flex-box-8 h3{
+    width: 300px;
+  }
+
+  .sec-with i{
+    margin-bottom: 30px;
+  }
+
+  .pskb{
+    width: 400px;
+  }
+  
+}
